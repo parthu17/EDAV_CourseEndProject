@@ -94,7 +94,8 @@ print("Path to dataset files:", path)
 ```text
 .
 ├── README.md                  
-├── CourseEndProject.ipynb         
+├── CourseEndProject.ipynb
+├── detailed_visualizations.png       
 ```
 
 ---
