@@ -1,10 +1,10 @@
 # Pedestrian Counts Data Analysis (2023)
 
-A comprehensive data analysis and visualization project exploring pedestrian traffic dynamics across various locations throughout 2023. Built using **Pandas** for data manipulation and **Matplotlib** for visualization, this repository provides scripts and notebooks to uncover daily, hourly, weekly, and seasonal foot-traffic patterns across multiple monitoring checkpoints.
+A data analysis and visualization project exploring pedestrian traffic dynamics across various locations throughout 2023. Built using **Pandas** for data manipulation and **Matplotlib** for visualization, this repository provides scripts and notebooks to uncover daily, hourly, weekly, and seasonal foot-traffic patterns across multiple monitoring checkpoints.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Understanding urban pedestrian volume is crucial for city planning, business placement, and public infrastructure management. This project analyzes hourly pedestrian counts collected over the course of a full year (January 1, 2023 – December 31, 2023) to address key urban mobility questions:
 - What are the peak pedestrian traffic hours during the day?
@@ -15,7 +15,7 @@ Understanding urban pedestrian volume is crucial for city planning, business pla
 
 ---
 
-## 📊 Visualizations & Analyses Included
+## Visualizations & Analyses Included
 
 The analytical code includes multi-aspect exploratory data analysis (EDA) categorized into two main perspectives:
 
@@ -33,7 +33,7 @@ The analytical code includes multi-aspect exploratory data analysis (EDA) catego
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -57,20 +57,18 @@ print("Path to dataset files:", path)
 
 ---
 
-## 🛠️ Usage Instructions
+## Usage Instructions
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/pedestrian-counts-analysis.git
-   cd pedestrian-counts-analysis
+   git clone https://github.com/parthu17/EDAV_CourseEndProject.git
    ```
 
 2. **Run the Analysis Script / Jupyter Notebook:**
    Load your environment and execute the script:
    ```bash
-   python pedestrian_analysis.py
+   python CourseEndProject.ipynb
    ```
-   *Alternatively, open `pedestrian_analysis.ipynb` in Jupyter Notebook or Google Colab.*
 
 3. **Sample Execution Script:**
    ```python
@@ -91,27 +89,25 @@ print("Path to dataset files:", path)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 .
-├── README.md                  # Project documentation
-├── pedestrian_analysis.py    # Main Python script with Matplotlib visualizations
-├── pedestrian_analysis.ipynb  # Interactive Jupyter Notebook version
-└── requirements.txt           # Project dependencies
+├── README.md                  
+├── CourseEndProject.ipynb         
 ```
 
 ---
 
-## 🛠️ Built With
+## Built With
 
-* **[Python](https://www.python.org/)** - Core programming language
-* **[Pandas](https://pandas.pydata.org/)** - Data manipulation and time-series resampling
-* **[Matplotlib](https://matplotlib.org/)** - Static data visualization
-* **[Kagglehub](https://github.com/Kaggle/kagglehub)** - Seamless Kaggle dataset integration
+* **[Python]
+* **[Pandas]
+* **[Matplotlib]
+* **[Kagglehub]
 
 ---
 
-## 📝 License
+## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
